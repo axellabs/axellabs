@@ -4,6 +4,7 @@ I'm a full stack software engineer, tinkerer, and autodidact. I enjoy trying out
 I've built websites, web apps, mobile apps, AI agents and data pipelines
 
 Languages: Python, Javascript, Typescript, Lua
+
 Interests: space, sci fi, philosophy, auto-deployments, linux, forests, worldbuilding
 
 - 🔭 I’m currently working on an open research project using knowledge graphs and RAG systems. Will be posting updates on that soon
