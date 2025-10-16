@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello I'm Axel 👋
 
-<!--
-**axellabs/axellabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack software engineer, tinkerer, and autodidact. I enjoy trying out new technologies, building apps, reading, painting or learning new things. 
+I've built websites, web apps, mobile apps, AI agents and data pipelines
 
-Here are some ideas to get you started:
+Languages: Python, Javascript, Typescript, Lua
+Interests: space, sci fi, philosophy, auto-deployments, linux, forests, worldbuilding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an open research project using knowledge graphs and RAG systems. Will be posting updates on that soon
+- 💬 Ask me about machine learning, the future of AI, distribution and management of resources, books, systems theory, space, quantum computing
+- 📫 How to reach me: axel@axiomintel.ai
+- ⚡ Contact me: if you want to discuss possible collaborations
+
